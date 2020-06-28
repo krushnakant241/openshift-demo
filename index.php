@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+echo "THis is a php code";
 ?>
